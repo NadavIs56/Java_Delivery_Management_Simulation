@@ -1,6 +1,4 @@
-#  <p align ="center"> Java_Delivery_Management_Simulation</p>
-
-##  <p align ="center"> 🚚🏢📦 Courier Company Simulation with OOP Principles, Design Patterns, and Multi-threading 🏢📦🚚</p>
+#  <p align ="center"> 🚚🏢📦 Courier Company Simulation with OOP Principles, Design Patterns, and Multi-threading 🏢📦🚚</p>
 
 <p align ="center"> This Java project showcases the implementation of object-oriented programming (OOP) principles, design patterns, and multi-threading to simulate the operations of a courier company. The system consists of branches, a sorting center, and a head office, with distribution vehicles associated with each branch.</p>
  
