@@ -18,7 +18,7 @@
 
 Throughout the package's journey between customers, vehicles, branches, and the sorting center, the package's status changes, and a record of its transfer history (tracking) is maintained.
 
-
+<br>
 
 🎯 Project Goals:
   - Implement a graphical user interface (GUI) to build the delivery system and run the simulation.
@@ -28,32 +28,34 @@ Throughout the package's journey between customers, vehicles, branches, and the 
   - Enable pausing and resuming the simulation, as well as accessing information about packages and branches.
   - Implement additional features like package tracking, cloning branches, restoring system states, and generating reports.
 
-
+<br>
 
 ⚙️ Technologies and Concepts:
-OOP principles, design patterns, and multi-threading.
-Singleton design pattern with double-checked locking (DCL).
-Listener design pattern.
-Thread pooling for client threads.
-ReadWriteLock.
-Prototype design pattern for branch duplication.
-Memento design pattern for system state restoration.
+  - OOP principles, design patterns, and multi-threading.
+  - Singleton design pattern with double-checked locking (DCL).
+  - Listener design pattern.
+  - Thread pooling for client threads.
+  - ReadWriteLock.
+  - Prototype design pattern for branch duplication.
+  - Memento design pattern for system state restoration.
 
+<br>
 
 📊 Visualization:
-The simulation interface presents a visual representation of the delivery system, with branches and trucks displayed as animated entities.
-Each package is represented by red circles for the sender and recipient addresses, connected by lines to the corresponding branches or sorting center.
-Van-type trucks are represented by dark blue squares, and standard trucks by light/dark green squares, indicating their status and the number of packages they carry.
-Non-standard trucks are displayed as light/dark red squares, based on whether they are empty or carrying a package.
-The simulation includes controls to stop, resume, and view package and branch information.
+  - The simulation interface presents a visual representation of the delivery system, with branches and trucks displayed as animated entities.
+  - Each package is represented by red circles for the sender and recipient addresses, connected by lines to the corresponding branches or sorting center.
+  - Van-type trucks are represented by dark blue squares, and standard trucks by light/dark green squares, indicating their status and the number of packages they carry.
+  - Non-standard trucks are displayed as light/dark red squares, based on whether they are empty or carrying a package.
+  - The simulation includes controls to stop, resume, and view package and branch information.
 
+<br>
 
 🔧 Additional Features:
-Package creation and tracking using a Customer class.
-Package delivery status updates and tracking recorded in a txt.tracking file.
-Multi-threaded implementation for branch handling and vehicle coordination.
-Graphical representation of package movement, vehicle routes, and address connections.
-Menu options for cloning branches, restoring system states, and generating reports.
+  - Package creation and tracking using a Customer class.
+  - Package delivery status updates and tracking recorded in a txt.tracking file.
+  - Multi-threaded implementation for branch handling and vehicle coordination.
+  - Graphical representation of package movement, vehicle routes, and address connections.
+  - Menu options for cloning branches, restoring system states, and generating reports.
 
 🚀 In summary, this project offers a comprehensive simulation of a courier company's operations, showcasing proficiency in Java, object-oriented programming, design patterns, multi-threading, and graphical user interface development. 🚀
 
