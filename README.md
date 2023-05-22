@@ -8,6 +8,7 @@
 
 🏢 Branches have van-type vehicles, while the sorting center has "standard truck" type vehicles and an additional "non-standard truck" type vehicle for transporting unusual cargo. The system creates a "package" and associates it with the appropriate branch when a shipment needs to be made.
 
+
 📦 Packages are handled based on their type:
 
   - For small and standard packages: The main office associates the package with a local branch based on the sender's address. A van-type vehicle from the branch picks up the package and delivers it to the branch. A standard truck from the sorting center collects the package from the branch and transports it to the sorting center. Another sorting center truck then takes the package to the destination branch according to the recipient's address. Finally, a delivery vehicle from the destination branch delivers the package to the customer.
@@ -17,6 +18,7 @@
 Throughout the package's journey between customers, vehicles, branches, and the sorting center, the package's status changes, and a record of its transfer history (tracking) is maintained.
 
 
+
 🎯 Project Goals:
   - Implement a graphical user interface (GUI) to build the delivery system and run the simulation.
   - Support parallel execution using multi-threading to enable simultaneous operation of branches and vehicles.
@@ -24,6 +26,7 @@ Throughout the package's journey between customers, vehicles, branches, and the 
   - Represent the movement of trucks and branches using animations and visualizations.
   - Enable pausing and resuming the simulation, as well as accessing information about packages and branches.
   - Implement additional features like package tracking, cloning branches, restoring system states, and generating reports.
+
 
 
 ⚙️ Technologies and Concepts:
