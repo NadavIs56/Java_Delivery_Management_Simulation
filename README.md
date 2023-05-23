@@ -78,6 +78,39 @@ Throughout the package's journey between customers, vehicles, branches, and the 
 |:--:| 
 | *2.	The simulation has started running, and the image shows the dynamic movement of vehicles and packages within the system. The branches, trucks, and packages are in motion, depicting the ongoing operations of the courier company.* |
 
+<br>
+
+### Image No.3
+
+| ![Image-3.JPG](https://github.com/NadavIs56/Java_Delivery_Management_Simulation/blob/main/Sample%20images/Image-3.JPG?raw=true) | 
+|:--:| 
+| *3.	After adding all 8 packages to the system, the image presents an overview of the entire delivery system. The branches, sorting center, and vehicles are all visible, with packages represented by red circles connected by lines to their corresponding branches or the sorting center.* |
+
+<br>
+
+### Image No.4
+
+| ![Image-4.JPG](https://github.com/NadavIs56/Java_Delivery_Management_Simulation/blob/main/Sample%20images/Image-4.JPG?raw=true) | 
+|:--:| 
+| *4.	As time progresses, the system shows the initial rush of normal packages to the branches. Some packages are being transferred from the branches to the sorting center using standard trucks, which are now depicted with a dark green color. The number displayed above the truck represents the number of packages it carries. Additionally, a non-standard truck loaded a package at the sender's location and is currently on its way to deliver the it to the customer. The color of this truck has changed to dark red.* |
+
+<br>
+
+### Image No.5
+
+| ![Image-5.JPG](https://github.com/NadavIs56/Java_Delivery_Management_Simulation/blob/main/Sample%20images/Image-5.JPG?raw=true) | 
+|:--:| 
+| *5.	In this image, some packages have been transported from the sorting center to the customer's branches using standard trucks. The trucks are visible, and the delivery of packages from the branches to the customers has commenced, indicated by the presence of van-type trucks in the system.* |
+
+<br>
+
+### Image No.6
+
+| ![Image-6.JPG](https://github.com/NadavIs56/Java_Delivery_Management_Simulation/blob/main/Sample%20images/Image-6.JPG?raw=true) | 
+|:--:| 
+| *6.	The final picture illustrates a scenario where all packages have been successfully delivered to the customers. The system shows that all packages have reached their destinations, and the delivery process is complete.* |
+
+<br>
 
 ## <p align ="center"> 🚀 In summary, this project offers a comprehensive simulation of a courier company's operations, showcasing proficiency in Java, object-oriented programming, design patterns, multi-threading, and graphical user interface development. 🚀</p>
 
