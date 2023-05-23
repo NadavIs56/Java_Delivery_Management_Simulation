@@ -63,6 +63,7 @@ Throughout the package's journey between customers, vehicles, branches, and the 
 
 ## 🖼️ Additional Features:
 <br>
+
 ### Image No.1
 
 | ![Image-1.JPG](https://github.com/NadavIs56/Java_Delivery_Management_Simulation/blob/main/Sample%20images/Image-1.JPG?raw=true) | 
