@@ -6,7 +6,7 @@
 
 ### <p align ="center"> Implemented using: </p>
 <p align ="center">
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer">   <img src="https://static.vecteezy.com/system/resources/previews/022/100/686/non_2x/java-logo-transparent-free-png.png" width="64" height="64" /></a></p>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer">   <img src="https://static.vecteezy.com/system/resources/previews/022/100/686/non_2x/java-logo-transparent-free-png.png" width="80" height="80" /></a></p>
  
 🏢 Branches have 🚐 van-type vehicles, while the sorting center has 🚚 "standard truck" type vehicles and an additional 🚛 "non-standard truck" type vehicle for transporting unusual cargo. The system creates a 📦 "package" and associates it with the appropriate branch when a shipment needs to be made.
 
