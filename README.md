@@ -64,6 +64,7 @@ Throughout the package's journey between customers, vehicles, branches, and the 
 ## 🖼️ Additional Features:
 <br>
 ### Image No.1
+
 | ![Image-1.JPG](https://github.com/NadavIs56/Java_Delivery_Management_Simulation/blob/main/Sample%20images/Image-1.JPG?raw=true) | 
 |:--:| 
 | *1.	The image displays a courier company simulation with 5 branches, 5 vehicles, and 8 packages. The branches are represented by animated entities, and there are red circles indicating the sender and recipient addresses of the packages. The trucks and their routes are not yet visible in this initial state of the simulation.* |
