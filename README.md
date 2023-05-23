@@ -3,6 +3,7 @@
 ## <p align ="center"> This Java project showcases the implementation of object-oriented programming (OOP) principles, design patterns, and multi-threading to simulate the operations of a courier company. The system consists of branches, a sorting center, and a head office, with distribution vehicles associated with each branch.</p>
  
 <br> 
+
 ### <p align ="center"> Implemented using: </p>
 <p align ="center">
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">   <img src="https://static.vecteezy.com/system/resources/previews/022/100/686/non_2x/java-logo-transparent-free-png.png" width="64" height="64" /></a></p>
