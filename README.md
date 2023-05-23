@@ -61,7 +61,7 @@ Throughout the package's journey between customers, vehicles, branches, and the 
 
 <br>
 
-## 🖼️ Additional Features:
+## 🖼️ Sample images:
 <br>
 
 ### Image No.1
@@ -69,6 +69,14 @@ Throughout the package's journey between customers, vehicles, branches, and the 
 | ![Image-1.JPG](https://github.com/NadavIs56/Java_Delivery_Management_Simulation/blob/main/Sample%20images/Image-1.JPG?raw=true) | 
 |:--:| 
 | *1.	The image displays a courier company simulation with 5 branches, 5 vehicles, and 8 packages. The branches are represented by animated entities, and there are red circles indicating the sender and recipient addresses of the packages. The trucks and their routes are not yet visible in this initial state of the simulation.* |
+
+<br>
+
+### Image No.2
+
+| ![Image-2.JPG](https://github.com/NadavIs56/Java_Delivery_Management_Simulation/blob/main/Sample%20images/Image-2.JPG?raw=true) | 
+|:--:| 
+| *2.	The simulation has started running, and the image shows the dynamic movement of vehicles and packages within the system. The branches, trucks, and packages are in motion, depicting the ongoing operations of the courier company.* |
 
 
 ## <p align ="center"> 🚀 In summary, this project offers a comprehensive simulation of a courier company's operations, showcasing proficiency in Java, object-oriented programming, design patterns, multi-threading, and graphical user interface development. 🚀</p>
