@@ -115,3 +115,7 @@ Throughout the package's journey between customers, vehicles, branches, and the 
 ## <p align ="center"> 🚀 In summary, this project offers a comprehensive simulation of a courier company's operations, showcasing proficiency in Java, object-oriented programming, design patterns, multi-threading, and graphical user interface development. 🚀</p>
 
 ## <p align ="center">✨ Enjoy exploring this exciting project, visualizing the operations of a courier company in action! ✨</p>
+
+<br>
+
+### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
